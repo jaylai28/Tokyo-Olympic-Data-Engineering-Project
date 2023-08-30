@@ -1,0 +1,744 @@
+"Id","TeamName","Discipline","Country","Event"
+1,Belgium,3x3 Basketball,Belgium,Men
+1,China,3x3 Basketball,People's Republic of China,Men
+1,China,3x3 Basketball,People's Republic of China,Women
+1,France,3x3 Basketball,France,Women
+1,Italy,3x3 Basketball,Italy,Women
+1,Japan,3x3 Basketball,Japan,Men
+1,Japan,3x3 Basketball,Japan,Women
+1,Latvia,3x3 Basketball,Latvia,Men
+1,Mongolia,3x3 Basketball,Mongolia,Women
+1,Netherlands,3x3 Basketball,Netherlands,Men
+1,Poland,3x3 Basketball,Poland,Men
+1,ROC,3x3 Basketball,ROC,Men
+1,ROC,3x3 Basketball,ROC,Women
+1,Romania,3x3 Basketball,Romania,Women
+1,Serbia,3x3 Basketball,Serbia,Men
+1,United States,3x3 Basketball,United States of America,Women
+1,Australia,Archery,Australia,Men's Team
+1,Australia,Archery,Australia,Mixed Team
+1,Bangladesh,Archery,Bangladesh,Mixed Team
+1,Belarus,Archery,Belarus,Women's Team
+1,Brazil,Archery,Brazil,Mixed Team
+1,Canada,Archery,Canada,Mixed Team
+1,China,Archery,People's Republic of China,Men's Team
+1,China,Archery,People's Republic of China,Mixed Team
+1,China,Archery,People's Republic of China,Women's Team
+1,Chinese Taipei,Archery,Chinese Taipei,Men's Team
+1,Chinese Taipei,Archery,Chinese Taipei,Mixed Team
+1,Chinese Taipei,Archery,Chinese Taipei,Women's Team
+1,Colombia,Archery,Colombia,Mixed Team
+1,Egypt,Archery,Egypt,Mixed Team
+1,France,Archery,France,Men's Team
+1,France,Archery,France,Mixed Team
+1,Germany,Archery,Germany,Mixed Team
+1,Germany,Archery,Germany,Women's Team
+1,Great Britain,Archery,Great Britain,Men's Team
+1,Great Britain,Archery,Great Britain,Mixed Team
+1,Great Britain,Archery,Great Britain,Women's Team
+1,India,Archery,India,Men's Team
+1,India,Archery,India,Mixed Team
+1,Indonesia,Archery,Indonesia,Men's Team
+1,Indonesia,Archery,Indonesia,Mixed Team
+1,Italy,Archery,Italy,Mixed Team
+1,Italy,Archery,Italy,Women's Team
+1,Japan,Archery,Japan,Men's Team
+1,Japan,Archery,Japan,Mixed Team
+1,Japan,Archery,Japan,Women's Team
+1,Kazakhstan,Archery,Kazakhstan,Men's Team
+1,Malaysia,Archery,Malaysia,Mixed Team
+1,Mexico,Archery,Mexico,Mixed Team
+1,Mexico,Archery,Mexico,Women's Team
+1,Mongolia,Archery,Mongolia,Mixed Team
+1,Netherlands,Archery,Netherlands,Men's Team
+1,Netherlands,Archery,Netherlands,Mixed Team
+1,Poland,Archery,Poland,Mixed Team
+1,Rep. of Moldova,Archery,Republic of Moldova,Mixed Team
+1,Republic of Korea,Archery,Republic of Korea,Men's Team
+1,Republic of Korea,Archery,Republic of Korea,Mixed Team
+1,Republic of Korea,Archery,Republic of Korea,Women's Team
+1,ROC,Archery,ROC,Mixed Team
+1,ROC,Archery,ROC,Women's Team
+1,Spain,Archery,Spain,Mixed Team
+1,Tunisia,Archery,Tunisia,Mixed Team
+1,Turkey,Archery,Turkey,Mixed Team
+1,Ukraine,Archery,Ukraine,Mixed Team
+1,Ukraine,Archery,Ukraine,Women's Team
+1,United States,Archery,United States of America,Men's Team
+1,United States,Archery,United States of America,Mixed Team
+1,United States,Archery,United States of America,Women's Team
+1,Vietnam,Archery,Vietnam,Mixed Team
+1,Belgium,Artistic Gymnastics,Belgium,Women's Team
+1,Brazil,Artistic Gymnastics,Brazil,Men's Team
+1,Canada,Artistic Gymnastics,Canada,Women's Team
+1,China,Artistic Gymnastics,People's Republic of China,Men's Team
+1,China,Artistic Gymnastics,People's Republic of China,Women's Team
+1,Chinese Taipei,Artistic Gymnastics,Chinese Taipei,Men's Team
+1,France,Artistic Gymnastics,France,Women's Team
+1,Germany,Artistic Gymnastics,Germany,Men's Team
+1,Germany,Artistic Gymnastics,Germany,Women's Team
+1,Great Britain,Artistic Gymnastics,Great Britain,Men's Team
+1,Great Britain,Artistic Gymnastics,Great Britain,Women's Team
+1,Italy,Artistic Gymnastics,Italy,Women's Team
+1,Japan,Artistic Gymnastics,Japan,Men's Team
+1,Japan,Artistic Gymnastics,Japan,Women's Team
+1,Netherlands,Artistic Gymnastics,Netherlands,Women's Team
+1,Korea,Artistic Gymnastics,Republic of Korea,Men's Team
+1,ROC,Artistic Gymnastics,ROC,Men's Team
+1,ROC,Artistic Gymnastics,ROC,Women's Team
+1,Spain,Artistic Gymnastics,Spain,Men's Team
+1,Spain,Artistic Gymnastics,Spain,Women's Team
+1,Switzerland,Artistic Gymnastics,Switzerland,Men's Team
+1,Ukraine,Artistic Gymnastics,Ukraine,Men's Team
+1,United States,Artistic Gymnastics,United States of America,Men's Team
+1,United States,Artistic Gymnastics,United States of America,Women's Team
+1,Australia,Artistic Swimming,Australia,Duet
+1,Australia,Artistic Swimming,Australia,Team
+1,Austria,Artistic Swimming,Austria,Duet
+1,Belarus,Artistic Swimming,Belarus,Duet
+1,Canada,Artistic Swimming,Canada,Duet
+1,Canada,Artistic Swimming,Canada,Team
+1,China,Artistic Swimming,People's Republic of China,Duet
+1,China,Artistic Swimming,People's Republic of China,Team
+1,Colombia,Artistic Swimming,Colombia,Duet
+1,Egypt,Artistic Swimming,Egypt,Duet
+1,Egypt,Artistic Swimming,Egypt,Team
+1,France,Artistic Swimming,France,Duet
+1,Great Britain,Artistic Swimming,Great Britain,Duet
+1,Greece,Artistic Swimming,Greece,Duet
+1,Greece,Artistic Swimming,Greece,Team
+1,Israel,Artistic Swimming,Israel,Duet
+1,Italy,Artistic Swimming,Italy,Duet
+1,Italy,Artistic Swimming,Italy,Team
+1,Japan,Artistic Swimming,Japan,Duet
+1,Japan,Artistic Swimming,Japan,Team
+1,Kazakhstan,Artistic Swimming,Kazakhstan,Duet
+1,Liechtenstein,Artistic Swimming,Liechtenstein,Duet
+1,Mexico,Artistic Swimming,Mexico,Duet
+1,Netherlands,Artistic Swimming,Netherlands,Duet
+1,ROC,Artistic Swimming,ROC,Duet
+1,ROC,Artistic Swimming,ROC,Team
+1,South Africa,Artistic Swimming,South Africa,Duet
+1,Spain,Artistic Swimming,Spain,Duet
+1,Spain,Artistic Swimming,Spain,Team
+1,Ukraine,Artistic Swimming,Ukraine,Duet
+1,Ukraine,Artistic Swimming,Ukraine,Team
+1,United States,Artistic Swimming,United States of America,Duet
+1,Australia,Athletics,Australia,Women's 4 x 400m Relay
+1,Bahamas,Athletics,Bahamas,Women's 4 x 400m Relay
+1,Belarus,Athletics,Belarus,Women's 4 x 400m Relay
+1,Belgium,Athletics,Belgium,4 x 400m Relay Mixed
+1,Belgium,Athletics,Belgium,Men's 4 x 400m Relay
+1,Belgium,Athletics,Belgium,Women's 4 x 400m Relay
+1,Botswana,Athletics,Botswana,Men's 4 x 400m Relay
+1,Brazil,Athletics,Brazil,4 x 400m Relay Mixed
+1,Brazil,Athletics,Brazil,Men's 4 x 100m Relay
+1,Brazil,Athletics,Brazil,Women's 4 x 100m Relay
+1,Canada,Athletics,Canada,Men's 4 x 100m Relay
+1,Canada,Athletics,Canada,Women's 4 x 400m Relay
+1,China,Athletics,People's Republic of China,Men's 4 x 100m Relay
+1,China,Athletics,People's Republic of China,Women's 4 x 100m Relay
+1,Colombia,Athletics,Colombia,Men's 4 x 400m Relay
+1,Cuba,Athletics,Cuba,Women's 4 x 400m Relay
+1,Czech Republic,Athletics,Czech Republic,Men's 4 x 400m Relay
+1,Denmark,Athletics,Denmark,Men's 4 x 100m Relay
+1,Denmark,Athletics,Denmark,Women's 4 x 100m Relay
+1,Dominican Rep.,Athletics,Dominican Republic,4 x 400m Relay Mixed
+1,Ecuador,Athletics,Ecuador,Women's 4 x 100m Relay
+1,France,Athletics,France,Men's 4 x 100m Relay
+1,France,Athletics,France,Men's 4 x 400m Relay
+1,France,Athletics,France,Women's 4 x 100m Relay
+1,France,Athletics,France,Women's 4 x 400m Relay
+1,Germany,Athletics,Germany,4 x 400m Relay Mixed
+1,Germany,Athletics,Germany,Men's 4 x 100m Relay
+1,Germany,Athletics,Germany,Men's 4 x 400m Relay
+1,Germany,Athletics,Germany,Women's 4 x 100m Relay
+1,Germany,Athletics,Germany,Women's 4 x 400m Relay
+1,Ghana,Athletics,Ghana,Men's 4 x 100m Relay
+1,Great Britain,Athletics,Great Britain,4 x 400m Relay Mixed
+1,Great Britain,Athletics,Great Britain,Men's 4 x 100m Relay
+1,Great Britain,Athletics,Great Britain,Men's 4 x 400m Relay
+1,Great Britain,Athletics,Great Britain,Women's 4 x 100m Relay
+1,Great Britain,Athletics,Great Britain,Women's 4 x 400m Relay
+1,India,Athletics,India,4 x 400m Relay Mixed
+1,India,Athletics,India,Men's 4 x 400m Relay
+1,Ireland,Athletics,Ireland,4 x 400m Relay Mixed
+1,Italy,Athletics,Italy,4 x 400m Relay Mixed
+1,Italy,Athletics,Italy,Men's 4 x 100m Relay
+1,Italy,Athletics,Italy,Men's 4 x 400m Relay
+1,Italy,Athletics,Italy,Women's 4 x 100m Relay
+1,Italy,Athletics,Italy,Women's 4 x 400m Relay
+1,Jamaica,Athletics,Jamaica,4 x 400m Relay Mixed
+1,Jamaica,Athletics,Jamaica,Men's 4 x 100m Relay
+1,Jamaica,Athletics,Jamaica,Men's 4 x 400m Relay
+1,Jamaica,Athletics,Jamaica,Women's 4 x 100m Relay
+1,Jamaica,Athletics,Jamaica,Women's 4 x 400m Relay
+1,Japan,Athletics,Japan,Men's 4 x 100m Relay
+1,Japan,Athletics,Japan,Men's 4 x 400m Relay
+1,Japan,Athletics,Japan,Women's 4 x 100m Relay
+1,Netherlands,Athletics,Netherlands,4 x 400m Relay Mixed
+1,Netherlands,Athletics,Netherlands,Men's 4 x 100m Relay
+1,Netherlands,Athletics,Netherlands,Men's 4 x 400m Relay
+1,Netherlands,Athletics,Netherlands,Women's 4 x 100m Relay
+1,Netherlands,Athletics,Netherlands,Women's 4 x 400m Relay
+1,Nigeria,Athletics,Nigeria,4 x 400m Relay Mixed
+1,Nigeria,Athletics,Nigeria,Women's 4 x 100m Relay
+1,Poland,Athletics,Poland,4 x 400m Relay Mixed
+1,Poland,Athletics,Poland,Men's 4 x 400m Relay
+1,Poland,Athletics,Poland,Women's 4 x 100m Relay
+1,Poland,Athletics,Poland,Women's 4 x 400m Relay
+1,South Africa,Athletics,South Africa,Men's 4 x 100m Relay
+1,South Africa,Athletics,South Africa,Men's 4 x 400m Relay
+1,Spain,Athletics,Spain,4 x 400m Relay Mixed
+1,Switzerland,Athletics,Switzerland,Women's 4 x 100m Relay
+1,Switzerland,Athletics,Switzerland,Women's 4 x 400m Relay
+1,Trinidad & Tobago,Athletics,Trinidad and Tobago,Men's 4 x 100m Relay
+1,Trinidad & Tobago,Athletics,Trinidad and Tobago,Men's 4 x 400m Relay
+1,Trinidad & Tobago,Athletics,Trinidad and Tobago,Women's 4 x 100m Relay
+1,Turkey,Athletics,Turkey,Men's 4 x 100m Relay
+1,Ukraine,Athletics,Ukraine,4 x 400m Relay Mixed
+1,Ukraine,Athletics,Ukraine,Women's 4 x 400m Relay
+1,United States,Athletics,United States of America,4 x 400m Relay Mixed
+1,United States,Athletics,United States of America,Men's 4 x 100m Relay
+1,United States,Athletics,United States of America,Men's 4 x 400m Relay
+1,United States,Athletics,United States of America,Women's 4 x 100m Relay
+1,United States,Athletics,United States of America,Women's 4 x 400m Relay
+1,Australia,Baseball/Softball,Australia,Softball
+1,Canada,Baseball/Softball,Canada,Softball
+1,Dominican Rep.,Baseball/Softball,Dominican Republic,Baseball
+1,Israel,Baseball/Softball,Israel,Baseball
+1,Italy,Baseball/Softball,Italy,Softball
+1,Japan,Baseball/Softball,Japan,Baseball
+1,Japan,Baseball/Softball,Japan,Softball
+1,Mexico,Baseball/Softball,Mexico,Baseball
+1,Mexico,Baseball/Softball,Mexico,Softball
+1,Republic of Korea,Baseball/Softball,Republic of Korea,Baseball
+1,United States,Baseball/Softball,United States of America,Baseball
+1,United States,Baseball/Softball,United States of America,Softball
+1,Argentina,Basketball,Argentina,Men
+1,Australia,Basketball,Australia,Men
+1,Australia,Basketball,Australia,Women
+1,Belgium,Basketball,Belgium,Women
+1,Canada,Basketball,Canada,Women
+1,China,Basketball,People's Republic of China,Women
+1,Czech Republic,Basketball,Czech Republic,Men
+1,France,Basketball,France,Men
+1,France,Basketball,France,Women
+1,Germany,Basketball,Germany,Men
+1,Islamic Rep. of Iran,Basketball,Islamic Republic of Iran,Men
+1,Italy,Basketball,Italy,Men
+1,Japan,Basketball,Japan,Men
+1,Japan,Basketball,Japan,Women
+1,Nigeria,Basketball,Nigeria,Men
+1,Nigeria,Basketball,Nigeria,Women
+1,Puerto Rico,Basketball,Puerto Rico,Women
+1,Republic of Korea,Basketball,Republic of Korea,Women
+1,Serbia,Basketball,Serbia,Women
+1,Slovenia,Basketball,Slovenia,Men
+1,Spain,Basketball,Spain,Men
+1,Spain,Basketball,Spain,Women
+1,United States,Basketball,United States of America,Men
+1,United States,Basketball,United States of America,Women
+1,Azaad/Capogrosso,Beach Volleyball,Argentina,Men
+1,Gallay/Pereyra,Beach Volleyball,Argentina,Women
+1,McHugh/Schumann,Beach Volleyball,Australia,Men
+1,Artacho Del Solar/Clancy,Beach Volleyball,Australia,Women
+1,Alison/Alvaro Filho,Beach Volleyball,Brazil,Men
+1,Evandro/Bruno Schmidt,Beach Volleyball,Brazil,Men
+1,Ana Patricia/Rebecca,Beach Volleyball,Brazil,Women
+1,Agatha/Duda,Beach Volleyball,Brazil,Women
+1,Bansley/Brandie,Beach Volleyball,Canada,Women
+1,Pavan/Melissa,Beach Volleyball,Canada,Women
+1,Grimalt M./Grimalt E.,Beach Volleyball,Chile,Men
+1,Wang/X.Y.Xia,Beach Volleyball,People's Republic of China,Women
+1,Xue/Wang X.X.,Beach Volleyball,People's Republic of China,Women
+1,Lidy/Leila,Beach Volleyball,Cuba,Women
+1,Perusic/Schweiner,Beach Volleyball,Czech Republic,Men
+1,Hermannova/Slukova,Beach Volleyball,Czech Republic,Women
+1,Thole J./Wickler,Beach Volleyball,Germany,Men
+1,Ludwig/Kozuch,Beach Volleyball,Germany,Women
+1,Sude/Borger,Beach Volleyball,Germany,Women
+1,Nicolai/Lupo,Beach Volleyball,Italy,Men
+1,Carambula/Rossi,Beach Volleyball,Italy,Men
+1,Menegatti/Orsi Toth,Beach Volleyball,Italy,Women
+1,Gottsu/Shiratori,Beach Volleyball,Japan,Men
+1,Ishii/Murakami,Beach Volleyball,Japan,Women
+1,Makokha/Khadambi,Beach Volleyball,Kenya,Women
+1,Plavins/Tocs,Beach Volleyball,Latvia,Men
+1,Graudina/Kravcenoka,Beach Volleyball,Latvia,Women
+1,Gaxiola/Rubio,Beach Volleyball,Mexico,Men
+1,Abicha/Elgraoui,Beach Volleyball,Morocco,Men
+1,Brouwer/Meeuwsen,Beach Volleyball,Netherlands,Men
+1,Keizer/Meppelink,Beach Volleyball,Netherlands,Women
+1,Stam/Schoon,Beach Volleyball,Netherlands,Women
+1,Mol A./Sorum C.,Beach Volleyball,Norway,Men
+1,Bryl/Fijalek,Beach Volleyball,Poland,Men
+1,Kantor/Losiak,Beach Volleyball,Poland,Men
+1,Cherif/Ahmed,Beach Volleyball,Qatar,Men
+1,Krasilnikov/Stoyanovskiy,Beach Volleyball,ROC,Men
+1,Leshukov/Semenov,Beach Volleyball,ROC,Men
+1,Makroguzova/Kholomina,Beach Volleyball,ROC,Women
+1,Herrera/Gavira,Beach Volleyball,Spain,Men
+1,Liliana/Elsa,Beach Volleyball,Spain,Women
+1,Heidrich/Gerson,Beach Volleyball,Switzerland,Men
+1,Huberli/Betschart,Beach Volleyball,Switzerland,Women
+1,"Verge-Depre, A./Heidrich",Beach Volleyball,Switzerland,Women
+1,Gibb/Bourne,Beach Volleyball,United States of America,Men
+1,Lucena/Dalhausser,Beach Volleyball,United States of America,Men
+1,April/Alix,Beach Volleyball,United States of America,Women
+1,Claes/Sponcil,Beach Volleyball,United States of America,Women
+1,Australia,Cycling Track,Australia,Men's Madison
+1,Australia,Cycling Track,Australia,Men's Team Pursuit
+1,Australia,Cycling Track,Australia,Men's Team Sprint
+1,Australia,Cycling Track,Australia,Women's Madison
+1,Australia,Cycling Track,Australia,Women's Team Pursuit
+1,Austria,Cycling Track,Austria,Men's Madison
+1,Belgium,Cycling Track,Belgium,Men's Madison
+1,Belgium,Cycling Track,Belgium,Women's Madison
+1,Canada,Cycling Track,Canada,Men's Madison
+1,Canada,Cycling Track,Canada,Men's Team Pursuit
+1,Canada,Cycling Track,Canada,Women's Madison
+1,Canada,Cycling Track,Canada,Women's Team Pursuit
+1,China,Cycling Track,People's Republic of China,Women's Team Sprint
+1,Denmark,Cycling Track,Denmark,Men's Madison
+1,Denmark,Cycling Track,Denmark,Men's Team Pursuit
+1,Denmark,Cycling Track,Denmark,Women's Madison
+1,France,Cycling Track,France,Men's Madison
+1,France,Cycling Track,France,Men's Team Sprint
+1,France,Cycling Track,France,Women's Madison
+1,France,Cycling Track,France,Women's Team Pursuit
+1,Germany,Cycling Track,Germany,Men's Madison
+1,Germany,Cycling Track,Germany,Men's Team Pursuit
+1,Germany,Cycling Track,Germany,Men's Team Sprint
+1,Germany,Cycling Track,Germany,Women's Madison
+1,Germany,Cycling Track,Germany,Women's Team Pursuit
+1,Germany,Cycling Track,Germany,Women's Team Sprint
+1,Great Britain,Cycling Track,Great Britain,Men's Madison
+1,Great Britain,Cycling Track,Great Britain,Men's Team Pursuit
+1,Great Britain,Cycling Track,Great Britain,Men's Team Sprint
+1,Great Britain,Cycling Track,Great Britain,Women's Madison
+1,Great Britain,Cycling Track,Great Britain,Women's Team Pursuit
+1,"Hong Kong, China",Cycling Track,"Hong Kong, China",Women's Madison
+1,Ireland,Cycling Track,Ireland,Men's Madison
+1,Ireland,Cycling Track,Ireland,Women's Madison
+1,Italy,Cycling Track,Italy,Men's Madison
+1,Italy,Cycling Track,Italy,Men's Team Pursuit
+1,Italy,Cycling Track,Italy,Women's Madison
+1,Italy,Cycling Track,Italy,Women's Team Pursuit
+1,Japan,Cycling Track,Japan,Women's Madison
+1,Lithuania,Cycling Track,Lithuania,Women's Team Sprint
+1,Mexico,Cycling Track,Mexico,Women's Team Sprint
+1,Netherlands,Cycling Track,Netherlands,Men's Madison
+1,Netherlands,Cycling Track,Netherlands,Men's Team Sprint
+1,Netherlands,Cycling Track,Netherlands,Women's Madison
+1,Netherlands,Cycling Track,Netherlands,Women's Team Sprint
+1,New Zealand,Cycling Track,New Zealand,Men's Madison
+1,New Zealand,Cycling Track,New Zealand,Men's Team Pursuit
+1,New Zealand,Cycling Track,New Zealand,Men's Team Sprint
+1,New Zealand,Cycling Track,New Zealand,Women's Madison
+1,New Zealand,Cycling Track,New Zealand,Women's Team Pursuit
+1,Poland,Cycling Track,Poland,Men's Madison
+1,Poland,Cycling Track,Poland,Men's Team Sprint
+1,Poland,Cycling Track,Poland,Women's Madison
+1,Poland,Cycling Track,Poland,Women's Team Sprint
+1,ROC,Cycling Track,ROC,Men's Team Sprint
+1,ROC,Cycling Track,ROC,Women's Madison
+1,ROC,Cycling Track,ROC,Women's Team Sprint
+1,Spain,Cycling Track,Spain,Men's Madison
+1,Switzerland,Cycling Track,Switzerland,Men's Madison
+1,Switzerland,Cycling Track,Switzerland,Men's Team Pursuit
+1,Ukraine,Cycling Track,Ukraine,Women's Team Sprint
+1,United States,Cycling Track,United States of America,Men's Madison
+1,United States,Cycling Track,United States of America,Women's Madison
+1,United States,Cycling Track,United States of America,Women's Team Pursuit
+1,Canada,Fencing,Canada,Men's Foil Team
+1,Canada,Fencing,Canada,Women's Foil Team
+1,China,Fencing,People's Republic of China,Men's �p�e Team
+1,China,Fencing,People's Republic of China,Women's �p�e Team
+1,China,Fencing,People's Republic of China,Women's Sabre Team
+1,Egypt,Fencing,Egypt,Men's Foil Team
+1,Egypt,Fencing,Egypt,Men's Sabre Team
+1,Egypt,Fencing,Egypt,Women's Foil Team
+1,Estonia,Fencing,Estonia,Women's �p�e Team
+1,France,Fencing,France,Men's �p�e Team
+1,France,Fencing,France,Men's Foil Team
+1,France,Fencing,France,Women's Foil Team
+1,France,Fencing,France,Women's Sabre Team
+1,Germany,Fencing,Germany,Men's Foil Team
+1,Germany,Fencing,Germany,Men's Sabre Team
+1,"Hong Kong, China",Fencing,"Hong Kong, China",Men's Foil Team
+1,"Hong Kong, China",Fencing,"Hong Kong, China",Women's �p�e Team
+1,Hungary,Fencing,Hungary,Men's Sabre Team
+1,Hungary,Fencing,Hungary,Women's Foil Team
+1,Hungary,Fencing,Hungary,Women's Sabre Team
+1,Islamic Rep. of Iran,Fencing,Islamic Republic of Iran,Men's Sabre Team
+1,Italy,Fencing,Italy,Men's �p�e Team
+1,Italy,Fencing,Italy,Men's Foil Team
+1,Italy,Fencing,Italy,Men's Sabre Team
+1,Italy,Fencing,Italy,Women's �p�e Team
+1,Italy,Fencing,Italy,Women's Foil Team
+1,Italy,Fencing,Italy,Women's Sabre Team
+1,Japan,Fencing,Japan,Men's �p�e Team
+1,Japan,Fencing,Japan,Men's Foil Team
+1,Japan,Fencing,Japan,Men's Sabre Team
+1,Japan,Fencing,Japan,Women's Foil Team
+1,Japan,Fencing,Japan,Women's Sabre Team
+1,Poland,Fencing,Poland,Women's �p�e Team
+1,Republic of Korea,Fencing,Republic of Korea,Men's �p�e Team
+1,Republic of Korea,Fencing,Republic of Korea,Men's Sabre Team
+1,Republic of Korea,Fencing,Republic of Korea,Women's �p�e Team
+1,Republic of Korea,Fencing,Republic of Korea,Women's Sabre Team
+1,ROC,Fencing,ROC,Men's �p�e Team
+1,ROC,Fencing,ROC,Men's Foil Team
+1,ROC,Fencing,ROC,Men's Sabre Team
+1,ROC,Fencing,ROC,Women's �p�e Team
+1,ROC,Fencing,ROC,Women's Foil Team
+1,ROC,Fencing,ROC,Women's Sabre Team
+1,Switzerland,Fencing,Switzerland,Men's �p�e Team
+1,Tunisia,Fencing,Tunisia,Women's Sabre Team
+1,Ukraine,Fencing,Ukraine,Men's �p�e Team
+1,United States,Fencing,United States of America,Men's �p�e Team
+1,United States,Fencing,United States of America,Men's Foil Team
+1,United States,Fencing,United States of America,Men's Sabre Team
+1,United States,Fencing,United States of America,Women's �p�e Team
+1,United States,Fencing,United States of America,Women's Foil Team
+1,United States,Fencing,United States of America,Women's Sabre Team
+1,Argentina,Football,Argentina,Men
+1,Australia,Football,Australia,Men
+1,Australia,Football,Australia,Women
+1,Brazil,Football,Brazil,Men
+1,Brazil,Football,Brazil,Women
+1,Canada,Football,Canada,Women
+1,Chile,Football,Chile,Women
+1,China,Football,People's Republic of China,Women
+1,C�te d�Ivoire,Football,C�te d'Ivoire,Men
+1,Egypt,Football,Egypt,Men
+1,France,Football,France,Men
+1,Germany,Football,Germany,Men
+1,Great Britain,Football,Great Britain,Women
+1,Honduras,Football,Honduras,Men
+1,Japan,Football,Japan,Men
+1,Japan,Football,Japan,Women
+1,Mexico,Football,Mexico,Men
+1,Netherlands,Football,Netherlands,Women
+1,New Zealand,Football,New Zealand,Men
+1,New Zealand,Football,New Zealand,Women
+1,Republic of Korea,Football,Republic of Korea,Men
+1,Romania,Football,Romania,Men
+1,Saudi Arabia,Football,Saudi Arabia,Men
+1,South Africa,Football,South Africa,Men
+1,Spain,Football,Spain,Men
+1,Sweden,Football,Sweden,Women
+1,United States,Football,United States of America,Women
+1,Zambia,Football,Zambia,Women
+1,Angola,Handball,Angola,Women
+1,Argentina,Handball,Argentina,Men
+1,Bahrain,Handball,Bahrain,Men
+1,Brazil,Handball,Brazil,Men
+1,Brazil,Handball,Brazil,Women
+1,Denmark,Handball,Denmark,Men
+1,Egypt,Handball,Egypt,Men
+1,France,Handball,France,Men
+1,France,Handball,France,Women
+1,Germany,Handball,Germany,Men
+1,Hungary,Handball,Hungary,Women
+1,Japan,Handball,Japan,Men
+1,Japan,Handball,Japan,Women
+1,Montenegro,Handball,Montenegro,Women
+1,Netherlands,Handball,Netherlands,Women
+1,Norway,Handball,Norway,Men
+1,Norway,Handball,Norway,Women
+1,Portugal,Handball,Portugal,Men
+1,Republic of Korea,Handball,Republic of Korea,Women
+1,ROC,Handball,ROC,Women
+1,Spain,Handball,Spain,Men
+1,Spain,Handball,Spain,Women
+1,Sweden,Handball,Sweden,Men
+1,Sweden,Handball,Sweden,Women
+1,Argentina,Hockey,Argentina,Men
+1,Argentina,Hockey,Argentina,Women
+1,Australia,Hockey,Australia,Men
+1,Australia,Hockey,Australia,Women
+1,Belgium,Hockey,Belgium,Men
+1,Canada,Hockey,Canada,Men
+1,China,Hockey,People's Republic of China,Women
+1,Germany,Hockey,Germany,Men
+1,Germany,Hockey,Germany,Women
+1,Great Britain,Hockey,Great Britain,Men
+1,Great Britain,Hockey,Great Britain,Women
+1,India,Hockey,India,Men
+1,India,Hockey,India,Women
+1,Ireland,Hockey,Ireland,Women
+1,Japan,Hockey,Japan,Men
+1,Japan,Hockey,Japan,Women
+1,Netherlands,Hockey,Netherlands,Men
+1,Netherlands,Hockey,Netherlands,Women
+1,New Zealand,Hockey,New Zealand,Men
+1,New Zealand,Hockey,New Zealand,Women
+1,South Africa,Hockey,South Africa,Men
+1,South Africa,Hockey,South Africa,Women
+1,Spain,Hockey,Spain,Men
+1,Spain,Hockey,Spain,Women
+1,Australia,Rhythmic Gymnastics,Australia,Group All-Around
+1,Azerbaijan,Rhythmic Gymnastics,Azerbaijan,Group All-Around
+1,Belarus,Rhythmic Gymnastics,Belarus,Group All-Around
+1,Brazil,Rhythmic Gymnastics,Brazil,Group All-Around
+1,Bulgaria,Rhythmic Gymnastics,Bulgaria,Group All-Around
+1,China,Rhythmic Gymnastics,People's Republic of China,Group All-Around
+1,Egypt,Rhythmic Gymnastics,Egypt,Group All-Around
+1,Israel,Rhythmic Gymnastics,Israel,Group All-Around
+1,Italy,Rhythmic Gymnastics,Italy,Group All-Around
+1,Japan,Rhythmic Gymnastics,Japan,Group All-Around
+1,ROC,Rhythmic Gymnastics,ROC,Group All-Around
+1,Ukraine,Rhythmic Gymnastics,Ukraine,Group All-Around
+1,United States,Rhythmic Gymnastics,United States of America,Group All-Around
+1,Uzbekistan,Rhythmic Gymnastics,Uzbekistan,Group All-Around
+1,Argentina,Rugby Sevens,Argentina,Men
+1,Australia,Rugby Sevens,Australia,Men
+1,Australia,Rugby Sevens,Australia,Women
+1,Brazil,Rugby Sevens,Brazil,Women
+1,Canada,Rugby Sevens,Canada,Men
+1,Canada,Rugby Sevens,Canada,Women
+1,China,Rugby Sevens,People's Republic of China,Women
+1,Fiji,Rugby Sevens,Fiji,Men
+1,Fiji,Rugby Sevens,Fiji,Women
+1,France,Rugby Sevens,France,Women
+1,Great Britain,Rugby Sevens,Great Britain,Men
+1,Great Britain,Rugby Sevens,Great Britain,Women
+1,Ireland,Rugby Sevens,Ireland,Men
+1,Japan,Rugby Sevens,Japan,Men
+1,Japan,Rugby Sevens,Japan,Women
+1,Kenya,Rugby Sevens,Kenya,Men
+1,Kenya,Rugby Sevens,Kenya,Women
+1,New Zealand,Rugby Sevens,New Zealand,Men
+1,New Zealand,Rugby Sevens,New Zealand,Women
+1,Republic of Korea,Rugby Sevens,Republic of Korea,Men
+1,ROC,Rugby Sevens,ROC,Women
+1,South Africa,Rugby Sevens,South Africa,Men
+1,United States,Rugby Sevens,United States of America,Men
+1,United States,Rugby Sevens,United States of America,Women
+1,Australia,Swimming,Australia,Men's 4 x 100m Freestyle Relay
+1,Australia,Swimming,Australia,Men's 4 x 100m Medley Relay
+1,Australia,Swimming,Australia,Men's 4 x 200m Freestyle Relay
+1,Australia,Swimming,Australia,Mixed 4 x 100m Medley Relay
+1,Australia,Swimming,Australia,Women's 4 x 100m Freestyle Relay
+1,Australia,Swimming,Australia,Women's 4 x 100m Medley Relay
+1,Australia,Swimming,Australia,Women's 4 x 200m Freestyle Relay
+1,Belarus,Swimming,Belarus,Men's 4 x 100m Medley Relay
+1,Belarus,Swimming,Belarus,Mixed 4 x 100m Medley Relay
+1,Belarus,Swimming,Belarus,Women's 4 x 100m Medley Relay
+1,Brazil,Swimming,Brazil,Men's 4 x 100m Freestyle Relay
+1,Brazil,Swimming,Brazil,Men's 4 x 100m Medley Relay
+1,Brazil,Swimming,Brazil,Men's 4 x 200m Freestyle Relay
+1,Brazil,Swimming,Brazil,Mixed 4 x 100m Medley Relay
+1,Brazil,Swimming,Brazil,Women's 4 x 100m Freestyle Relay
+1,Brazil,Swimming,Brazil,Women's 4 x 200m Freestyle Relay
+1,Canada,Swimming,Canada,Men's 4 x 100m Freestyle Relay
+1,Canada,Swimming,Canada,Men's 4 x 100m Medley Relay
+1,Canada,Swimming,Canada,Mixed 4 x 100m Medley Relay
+1,Canada,Swimming,Canada,Women's 4 x 100m Freestyle Relay
+1,Canada,Swimming,Canada,Women's 4 x 100m Medley Relay
+1,Canada,Swimming,Canada,Women's 4 x 200m Freestyle Relay
+1,China,Swimming,People's Republic of China,Men's 4 x 100m Medley Relay
+1,China,Swimming,People's Republic of China,Men's 4 x 200m Freestyle Relay
+1,China,Swimming,People's Republic of China,Mixed 4 x 100m Medley Relay
+1,China,Swimming,People's Republic of China,Women's 4 x 100m Freestyle Relay
+1,China,Swimming,People's Republic of China,Women's 4 x 100m Medley Relay
+1,China,Swimming,People's Republic of China,Women's 4 x 200m Freestyle Relay
+1,Czech Republic,Swimming,Czech Republic,Women's 4 x 100m Freestyle Relay
+1,Denmark,Swimming,Denmark,Women's 4 x 100m Freestyle Relay
+1,Denmark,Swimming,Denmark,Women's 4 x 100m Medley Relay
+1,France,Swimming,France,Men's 4 x 100m Freestyle Relay
+1,France,Swimming,France,Men's 4 x 100m Medley Relay
+1,France,Swimming,France,Men's 4 x 200m Freestyle Relay
+1,France,Swimming,France,Women's 4 x 100m Freestyle Relay
+1,France,Swimming,France,Women's 4 x 200m Freestyle Relay
+1,Germany,Swimming,Germany,Men's 4 x 100m Freestyle Relay
+1,Germany,Swimming,Germany,Men's 4 x 100m Medley Relay
+1,Germany,Swimming,Germany,Men's 4 x 200m Freestyle Relay
+1,Germany,Swimming,Germany,Mixed 4 x 100m Medley Relay
+1,Germany,Swimming,Germany,Women's 4 x 100m Freestyle Relay
+1,Germany,Swimming,Germany,Women's 4 x 100m Medley Relay
+1,Germany,Swimming,Germany,Women's 4 x 200m Freestyle Relay
+1,Great Britain,Swimming,Great Britain,Men's 4 x 100m Freestyle Relay
+1,Great Britain,Swimming,Great Britain,Men's 4 x 100m Medley Relay
+1,Great Britain,Swimming,Great Britain,Men's 4 x 200m Freestyle Relay
+1,Great Britain,Swimming,Great Britain,Mixed 4 x 100m Medley Relay
+1,Great Britain,Swimming,Great Britain,Women's 4 x 100m Freestyle Relay
+1,Great Britain,Swimming,Great Britain,Women's 4 x 100m Medley Relay
+1,Greece,Swimming,Greece,Men's 4 x 100m Freestyle Relay
+1,Greece,Swimming,Greece,Men's 4 x 100m Medley Relay
+1,Greece,Swimming,Greece,Mixed 4 x 100m Medley Relay
+1,"Hong Kong, China",Swimming,"Hong Kong, China",Women's 4 x 100m Freestyle Relay
+1,"Hong Kong, China",Swimming,"Hong Kong, China",Women's 4 x 100m Medley Relay
+1,"Hong Kong, China",Swimming,"Hong Kong, China",Women's 4 x 200m Freestyle Relay
+1,Hungary,Swimming,Hungary,Men's 4 x 100m Freestyle Relay
+1,Hungary,Swimming,Hungary,Men's 4 x 100m Medley Relay
+1,Hungary,Swimming,Hungary,Men's 4 x 200m Freestyle Relay
+1,Hungary,Swimming,Hungary,Mixed 4 x 100m Medley Relay
+1,Hungary,Swimming,Hungary,Women's 4 x 200m Freestyle Relay
+1,Ireland,Swimming,Ireland,Men's 4 x 200m Freestyle Relay
+1,Israel,Swimming,Israel,Men's 4 x 200m Freestyle Relay
+1,Israel,Swimming,Israel,Mixed 4 x 100m Medley Relay
+1,Italy,Swimming,Italy,Men's 4 x 100m Freestyle Relay
+1,Italy,Swimming,Italy,Men's 4 x 100m Medley Relay
+1,Italy,Swimming,Italy,Men's 4 x 200m Freestyle Relay
+1,Italy,Swimming,Italy,Mixed 4 x 100m Medley Relay
+1,Italy,Swimming,Italy,Women's 4 x 100m Medley Relay
+1,Italy,Swimming,Italy,Women's 4 x 200m Freestyle Relay
+1,Japan,Swimming,Japan,Men's 4 x 100m Freestyle Relay
+1,Japan,Swimming,Japan,Men's 4 x 100m Medley Relay
+1,Japan,Swimming,Japan,Men's 4 x 200m Freestyle Relay
+1,Japan,Swimming,Japan,Mixed 4 x 100m Medley Relay
+1,Japan,Swimming,Japan,Women's 4 x 100m Freestyle Relay
+1,Japan,Swimming,Japan,Women's 4 x 100m Medley Relay
+1,Japan,Swimming,Japan,Women's 4 x 200m Freestyle Relay
+1,Lithuania,Swimming,Lithuania,Men's 4 x 100m Medley Relay
+1,Netherlands,Swimming,Netherlands,Men's 4 x 100m Freestyle Relay
+1,Netherlands,Swimming,Netherlands,Mixed 4 x 100m Medley Relay
+1,Netherlands,Swimming,Netherlands,Women's 4 x 100m Freestyle Relay
+1,Netherlands,Swimming,Netherlands,Women's 4 x 100m Medley Relay
+1,New Zealand,Swimming,New Zealand,Women's 4 x 200m Freestyle Relay
+1,Poland,Swimming,Poland,Men's 4 x 100m Freestyle Relay
+1,Poland,Swimming,Poland,Men's 4 x 100m Medley Relay
+1,Poland,Swimming,Poland,Men's 4 x 200m Freestyle Relay
+1,Poland,Swimming,Poland,Mixed 4 x 100m Medley Relay
+1,Poland,Swimming,Poland,Women's 4 x 100m Freestyle Relay
+1,Poland,Swimming,Poland,Women's 4 x 200m Freestyle Relay
+1,Republic of Korea,Swimming,Republic of Korea,Men's 4 x 200m Freestyle Relay
+1,Republic of Korea,Swimming,Republic of Korea,Women's 4 x 200m Freestyle Relay
+1,ROC,Swimming,ROC,Men's 4 x 100m Freestyle Relay
+1,ROC,Swimming,ROC,Men's 4 x 100m Medley Relay
+1,ROC,Swimming,ROC,Men's 4 x 200m Freestyle Relay
+1,ROC,Swimming,ROC,Mixed 4 x 100m Medley Relay
+1,ROC,Swimming,ROC,Women's 4 x 100m Freestyle Relay
+1,ROC,Swimming,ROC,Women's 4 x 100m Medley Relay
+1,ROC,Swimming,ROC,Women's 4 x 200m Freestyle Relay
+1,Serbia,Swimming,Serbia,Men's 4 x 100m Freestyle Relay
+1,South Africa,Swimming,South Africa,Women's 4 x 100m Medley Relay
+1,South Africa,Swimming,South Africa,Women's 4 x 200m Freestyle Relay
+1,Spain,Swimming,Spain,Women's 4 x 100m Medley Relay
+1,Sweden,Swimming,Sweden,Women's 4 x 100m Freestyle Relay
+1,Sweden,Swimming,Sweden,Women's 4 x 100m Medley Relay
+1,Switzerland,Swimming,Switzerland,Men's 4 x 100m Freestyle Relay
+1,Switzerland,Swimming,Switzerland,Men's 4 x 200m Freestyle Relay
+1,Turkey,Swimming,Turkey,Women's 4 x 200m Freestyle Relay
+1,United States,Swimming,United States of America,Men's 4 x 100m Freestyle Relay
+1,United States,Swimming,United States of America,Men's 4 x 100m Medley Relay
+1,United States,Swimming,United States of America,Men's 4 x 200m Freestyle Relay
+1,United States,Swimming,United States of America,Mixed 4 x 100m Medley Relay
+1,United States,Swimming,United States of America,Women's 4 x 100m Freestyle Relay
+1,United States,Swimming,United States of America,Women's 4 x 100m Medley Relay
+1,United States,Swimming,United States of America,Women's 4 x 200m Freestyle Relay
+1,Australia,Table Tennis,Australia,Men's Team
+1,HU Heming / TAPPER Melissa,Table Tennis,Australia,Mixed Doubles
+1,Australia,Table Tennis,Australia,Women's Team
+1,FEGERL Stefan / POLCANOVA Sofia,Table Tennis,Austria,Mixed Doubles
+1,Austria,Table Tennis,Austria,Women's Team
+1,Brazil,Table Tennis,Brazil,Men's Team
+1,Brazil,Table Tennis,Brazil,Women's Team
+1,WANG Zhen / ZHANG Mo,Table Tennis,Canada,Mixed Doubles
+1,China,Table Tennis,People's Republic of China,Men's Team
+1,XU Xin / LIU Shiwen,Table Tennis,People's Republic of China,Mixed Doubles
+1,China,Table Tennis,People's Republic of China,Women's Team
+1,Chinese Taipei,Table Tennis,Chinese Taipei,Men's Team
+1,LIN Yun Ju / CHENG I Ching,Table Tennis,Chinese Taipei,Mixed Doubles
+1,Chinese Taipei,Table Tennis,Chinese Taipei,Women's Team
+1,Croatia,Table Tennis,Croatia,Men's Team
+1,CAMPOS Jorge / FONSECA Daniela,Table Tennis,Cuba,Mixed Doubles
+1,Egypt,Table Tennis,Egypt,Men's Team
+1,ASSAR Omar / MESHREF Dina,Table Tennis,Egypt,Mixed Doubles
+1,Egypt,Table Tennis,Egypt,Women's Team
+1,France,Table Tennis,France,Men's Team
+1,LEBESSON Emmanuel / YUAN Jia Nan,Table Tennis,France,Mixed Doubles
+1,France,Table Tennis,France,Women's Team
+1,Germany,Table Tennis,Germany,Men's Team
+1,FRANZISKA Patrick / SOLJA Petrissa,Table Tennis,Germany,Mixed Doubles
+1,Germany,Table Tennis,Germany,Women's Team
+1,"Hong Kong, China",Table Tennis,"Hong Kong, China",Men's Team
+1,WONG Chun Ting / DOO Hoi Kem,Table Tennis,"Hong Kong, China",Mixed Doubles
+1,"Hong Kong, China",Table Tennis,"Hong Kong, China",Women's Team
+1,SZUDI Adam / PERGEL Szandra,Table Tennis,Hungary,Mixed Doubles
+1,Hungary,Table Tennis,Hungary,Women's Team
+1,ACHANTA Kamal / BATRA Manika,Table Tennis,India,Mixed Doubles
+1,Japan,Table Tennis,Japan,Men's Team
+1,MIZUTANI Jun / ITO Mima,Table Tennis,Japan,Mixed Doubles
+1,Japan,Table Tennis,Japan,Women's Team
+1,Poland,Table Tennis,Poland,Women's Team
+1,Portugal,Table Tennis,Portugal,Men's Team
+1,Republic of Korea,Table Tennis,Republic of Korea,Men's Team
+1,LEE Sangsu / JEON Jihee,Table Tennis,Republic of Korea,Mixed Doubles
+1,Republic of Korea,Table Tennis,Republic of Korea,Women's Team
+1,IONESCU Ovidiu / SZOCS Bernadette,Table Tennis,Romania,Mixed Doubles
+1,Romania,Table Tennis,Romania,Women's Team
+1,Serbia,Table Tennis,Serbia,Men's Team
+1,Singapore,Table Tennis,Singapore,Women's Team
+1,PISTEJ Lubomir / BALAZOVA Barbora,Table Tennis,Slovakia,Mixed Doubles
+1,Slovenia,Table Tennis,Slovenia,Men's Team
+1,Sweden,Table Tennis,Sweden,Men's Team
+1,United States,Table Tennis,United States of America,Men's Team
+1,United States,Table Tennis,United States of America,Women's Team
+1,Australia,Triathlon,Australia,Mixed Relay
+1,Austria,Triathlon,Austria,Mixed Relay
+1,Belgium,Triathlon,Belgium,Mixed Relay
+1,Canada,Triathlon,Canada,Mixed Relay
+1,France,Triathlon,France,Mixed Relay
+1,Germany,Triathlon,Germany,Mixed Relay
+1,Great Britain,Triathlon,Great Britain,Mixed Relay
+1,Hungary,Triathlon,Hungary,Mixed Relay
+1,Italy,Triathlon,Italy,Mixed Relay
+1,Japan,Triathlon,Japan,Mixed Relay
+1,Mexico,Triathlon,Mexico,Mixed Relay
+1,Netherlands,Triathlon,Netherlands,Mixed Relay
+1,New Zealand,Triathlon,New Zealand,Mixed Relay
+1,ROC,Triathlon,ROC,Mixed Relay
+1,South Africa,Triathlon,South Africa,Mixed Relay
+1,Spain,Triathlon,Spain,Mixed Relay
+1,Switzerland,Triathlon,Switzerland,Mixed Relay
+1,United States,Triathlon,United States of America,Mixed Relay
+1,Argentina,Volleyball,Argentina,Men
+1,Argentina,Volleyball,Argentina,Women
+1,Brazil,Volleyball,Brazil,Men
+1,Brazil,Volleyball,Brazil,Women
+1,Canada,Volleyball,Canada,Men
+1,China,Volleyball,People's Republic of China,Women
+1,Dominican Rep.,Volleyball,Dominican Republic,Women
+1,France,Volleyball,France,Men
+1,Islamic Rep. of Iran,Volleyball,Islamic Republic of Iran,Men
+1,Italy,Volleyball,Italy,Men
+1,Italy,Volleyball,Italy,Women
+1,Japan,Volleyball,Japan,Men
+1,Japan,Volleyball,Japan,Women
+1,Kenya,Volleyball,Kenya,Women
+1,Poland,Volleyball,Poland,Men
+1,Republic of Korea,Volleyball,Republic of Korea,Women
+1,ROC,Volleyball,ROC,Men
+1,ROC,Volleyball,ROC,Women
+1,Serbia,Volleyball,Serbia,Women
+1,Tunisia,Volleyball,Tunisia,Men
+1,Turkey,Volleyball,Turkey,Women
+1,United States,Volleyball,United States of America,Men
+1,United States,Volleyball,United States of America,Women
+1,Venezuela,Volleyball,Venezuela,Men
+1,Australia,Water Polo,Australia,Men
+1,Australia,Water Polo,Australia,Women
+1,Canada,Water Polo,Canada,Women
+1,China,Water Polo,People's Republic of China,Women
+1,Croatia,Water Polo,Croatia,Men
+1,Greece,Water Polo,Greece,Men
+1,Hungary,Water Polo,Hungary,Men
+1,Hungary,Water Polo,Hungary,Women
+1,Italy,Water Polo,Italy,Men
+1,Japan,Water Polo,Japan,Men
+1,Japan,Water Polo,Japan,Women
+1,Kazakhstan,Water Polo,Kazakhstan,Men
+1,Montenegro,Water Polo,Montenegro,Men
+1,Netherlands,Water Polo,Netherlands,Women
+1,ROC,Water Polo,ROC,Women
+1,Serbia,Water Polo,Serbia,Men
+1,South Africa,Water Polo,South Africa,Men
+1,South Africa,Water Polo,South Africa,Women
+1,Spain,Water Polo,Spain,Men
+1,Spain,Water Polo,Spain,Women
+1,United States,Water Polo,United States of America,Men
+1,United States,Water Polo,United States of America,Women
