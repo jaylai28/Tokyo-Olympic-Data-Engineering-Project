@@ -7,4 +7,4 @@ The data ingestion ingests the data sets into Amazon S3 bucket. It then be used 
 
 AWS Glue Crawler then organizes and crawls the data from the S3 bucket and creates a table in Glue Data Catalog. AWS Athena is used for detailed analysis using SQL Query. This comprehensive process showcases the journey from data ingestion and transformation to storage and analysis. Finally, Tableau is used to create the dashboard.
 
-![Tokyo Olympic Flow Chart](https://github.com/jaylai28/Tokyo-Olympic-Data-Engineering-Project/assets/69461406/3fe11e45-3163-4c57-ad28-d4d4932a36c3)
+![Tokyo Olympic Chart](https://github.com/jaylai28/Tokyo-Olympic-Data-Engineering-Project/assets/69461406/f91bb72e-2ae7-4401-9c4c-608975556d9b)
