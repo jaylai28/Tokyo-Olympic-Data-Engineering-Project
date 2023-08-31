@@ -9,5 +9,7 @@ AWS Glue Crawler then organizes and crawls the data from the S3 bucket and creat
 
 ![Tokyo Olympic Chart](https://github.com/jaylai28/Tokyo-Olympic-Data-Engineering-Project/assets/69461406/f91bb72e-2ae7-4401-9c4c-608975556d9b)
 
-Tokyo Olympic Dashboard Overview
+
+
+# Tokyo Olympic Dashboard Overview
 ![Tokyo Olympic Image](https://github.com/jaylai28/Tokyo-Olympic-Data-Engineering-Project/assets/69461406/2f976ce7-4dfd-4482-875d-9f9069ee09a4)
